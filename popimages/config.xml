@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	galleryTitle="Point of Pines"
+
+>
+  <image imageURL="images/new_slider_image_1.jpg"
+	thumbURL="thumbs/new_slider_image_1.jpg"
+	linkURL="images/new_slider_image_1.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Private Beach]]></title>
+    <caption><![CDATA[Point of Pines features a 200 acre private beach]]></caption>
+  </image>
+  <image imageURL="images/new_slider_image_2.jpg"
+	thumbURL="thumbs/new_slider_image_2.jpg"
+	linkURL="images/new_slider_image_2.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[So close, yet so far]]></title>
+    <caption><![CDATA[A private beach less than 8 miles from downtown Boston]]></caption>
+  </image>
+  <image imageURL="images/new_slider_image_4.jpg"
+	thumbURL="thumbs/new_slider_image_4.jpg"
+	linkURL="images/new_slider_image_4.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Quiet and secluded]]></title>
+    <caption><![CDATA[Enjoy quiet evenings ]]></caption>
+  </image>
+  <image imageURL="images/new_slider_image_6.jpg"
+	thumbURL="thumbs/new_slider_image_6.jpg"
+	linkURL="images/new_slider_image_6.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Quiet, safe neighborhood]]></title>
+    <caption><![CDATA[Very quiet and very safe]]></caption>
+  </image>
+  <image imageURL="images/new_slider_image_3.jpg"
+	thumbURL="thumbs/new_slider_image_3.jpg"
+	linkURL="images/new_slider_image_3.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[For ocean lovers]]></title>
+    <caption><![CDATA[Gateway to the North Shore]]></caption>
+  </image>
+  <image imageURL="images/new_slider_image_5.jpg"
+	thumbURL="thumbs/new_slider_image_5.jpg"
+	linkURL="images/new_slider_image_5.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Private Beach]]></title>
+    <caption><![CDATA[200 acres]]></caption>
+  </image>
+</juiceboxgallery>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1024"
+	maxImageHeight="768"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	galleryTitle="Apartment 1"
+
+>
+  <image imageURL="images/IMG_2764.jpg"
+	thumbURL="thumbs/IMG_2764.jpg"
+	linkURL="images/IMG_2764.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Very large kitchen]]></title>
+    <caption><![CDATA[Gas range, fridge, dishwasher]]></caption>
+  </image>
+  <image imageURL="images/IMG_2763.jpg"
+	thumbURL="thumbs/IMG_2763.jpg"
+	linkURL="images/IMG_2763.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Eat-in Kitchen]]></title>
+    <caption><![CDATA[With buffet counter and ceiling fan]]></caption>
+  </image>
+  <image imageURL="images/IMG_2754.jpg"
+	thumbURL="thumbs/IMG_2754.jpg"
+	linkURL="images/IMG_2754.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Open concept living and dining rooms]]></title>
+    <caption><![CDATA[Lots of natural light and rooms flow into each other]]></caption>
+  </image>
+  <image imageURL="images/IMG_2755.jpg"
+	thumbURL="thumbs/IMG_2755.jpg"
+	linkURL="images/IMG_2755.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Living room ]]></title>
+    <caption><![CDATA[Very large living room with lots of natural light]]></caption>
+  </image>
+  <image imageURL="images/IMG_2756.jpg"
+	thumbURL="thumbs/IMG_2756.jpg"
+	linkURL="images/IMG_2756.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Dining room ]]></title>
+    <caption><![CDATA[Dining room with crown molding and chair rail]]></caption>
+  </image>
+  <image imageURL="images/IMG_2757.jpg"
+	thumbURL="thumbs/IMG_2757.jpg"
+	linkURL="images/IMG_2757.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Open concept]]></title>
+    <caption><![CDATA[Dining room flows back to living room]]></caption>
+  </image>
+  <image imageURL="images/IMG_2753.jpg"
+	thumbURL="thumbs/IMG_2753.jpg"
+	linkURL="images/IMG_2753.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Hallway]]></title>
+    <caption><![CDATA[Period details preserved in all the rooms]]></caption>
+  </image>
+  <image imageURL="images/IMG_2759.jpg"
+	thumbURL="thumbs/IMG_2759.jpg"
+	linkURL="images/IMG_2759.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Master bedroom]]></title>
+    <caption><![CDATA[Master bedroom with walk-in closet and ceiling fan]]></caption>
+  </image>
+  <image imageURL="images/IMG_2758.jpg"
+	thumbURL="thumbs/IMG_2758.jpg"
+	linkURL="images/IMG_2758.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Second bedroom]]></title>
+    <caption><![CDATA[Full sized second bedroom with ceiling fan]]></caption>
+  </image>
+  <image imageURL="images/IMG_2760.jpg"
+	thumbURL="thumbs/IMG_2760.jpg"
+	linkURL="images/IMG_2760.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Bathroom]]></title>
+    <caption><![CDATA[Newly updated bathroom]]></caption>
+  </image>
+  <image imageURL="images/IMG_2761.jpg"
+	thumbURL="thumbs/IMG_2761.jpg"
+	linkURL="images/IMG_2761.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Bathroom]]></title>
+    <caption><![CDATA[Dark, slate-colored tiles]]></caption>
+  </image>
+  <image imageURL="images/IMG_2762.jpg"
+	thumbURL="thumbs/IMG_2762.jpg"
+	linkURL="images/IMG_2762.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Bathroom]]></title>
+    <caption><![CDATA[Tub/shower and linen closet]]></caption>
+  </image>
+  <image imageURL="images/IMG_2765.jpg"
+	thumbURL="thumbs/IMG_2765.jpg"
+	linkURL="images/IMG_2765.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Breezeway]]></title>
+    <caption><![CDATA[Exposed brick breezeway]]></caption>
+  </image>
+  <image imageURL="images/IMG_2766.jpg"
+	thumbURL="thumbs/IMG_2766.jpg"
+	linkURL="images/IMG_2766.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Breezeway]]></title>
+    <caption><![CDATA[Perfect space for enjoying a summer breeze]]></caption>
+  </image>
+  <image imageURL="images/IMG_2767.jpg"
+	thumbURL="thumbs/IMG_2767.jpg"
+	linkURL="images/IMG_2767.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Breezeway]]></title>
+    <caption><![CDATA[Exposed brick and lots of windows]]></caption>
+  </image>
+</juiceboxgallery>
